@@ -1,7 +1,5 @@
-# java-vscode-starter
+# java-hash-test
 
-A starter project meant to be cloned and used for Java in VS Code, Gitpod, etc environments.
+Started from my Java VS Code start. Followed https://baeldung.com/sha-256-hashing-java.
 
-Created from Maven quickstart archetype (https://maven.apache.org/archetypes/maven-archetype-quickstart/).
-
-.gitignore file from GitHub's gitignore project (https://github.com/github/gitignore/blob/master/Maven.gitignore).
+Uses Apache Commons because that's a good utils library which mostly presents easier to use versions of stuff in the stdlib.
